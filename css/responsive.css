@@ -1625,3 +1625,11 @@
         padding: 0 !important;
     }
 }
+@media((min-width:350px) and (max-width:480px)) {
+    .analytics-content{
+        padding-top: 80px;
+    }
+    .analytics-content p {
+        padding: 0 !important;
+    }
+}
